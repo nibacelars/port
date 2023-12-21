@@ -1,0 +1,48 @@
+html {
+    background-color: black;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    border: 2px solid rgb(56, 46, 110);
+    
+  }
+
+h1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+nav {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+
+a.hl:link, a.hl:active, a.hl:visited, a.hl:hover {
+    text-decoration: none;
+    color: white;
+}
+
+a.hl:hover {
+    color:rgb(102, 6, 228);
+}
+
+footer {
+    text-align: right;
+    color: white;
+    font-size: 15px;
+}
+
